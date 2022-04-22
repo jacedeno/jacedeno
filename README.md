@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jacedeno
-- 👀 I’m interested in Learn Coding - Data Science
-- 🌱 I’m currently learning HTML and Python
+- 👀 I’m Learning Coding - Data Science
+- 🌱 I’m currently learning HTML, Python, C++, Anrduino.
 - 📫 I am @geekendzone at Instagram
 
 <!---
