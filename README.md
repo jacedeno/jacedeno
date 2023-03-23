@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @jacedeno
-- 👀 I’m Learning Coding - Data Science
-- 🌱 I’m currently learning HTML, Python, MicroPython, C++.
+- 🌱Data Scientist
 - 📫 I am @geekendzone at Instagram
 
 <!---
