@@ -40,7 +40,7 @@ A full-stack solution for industrial procurement workflows.
 
 <div align="center">
 
-# [![GitHub Stats](https://github-readme-stats-sand-chi-31.vercel.app/api?username=jacedeno&show_icons=true&theme=dark&cache_seconds=1800&count_private=true)](https://github.com/jacedeno)
+# [![GitHub Stats](https://github-readme-stats-sand-chi-31.vercel.app/api?username=jacedeno&show_icons=true&theme=dark&cache_seconds=86400&count_private=true&include_all_commits=true)](https://github.com/jacedeno)
 
 [![Top Languages](https://github-readme-stats-sand-chi-31.vercel.app/api/top-langs/?username=jacedeno&layout=compact&theme=dark&cache_seconds=1800)](https://github.com/jacedeno)
 
